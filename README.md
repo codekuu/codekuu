@@ -11,5 +11,5 @@ My name is Kevin and I live in Stockholm, Sweden! I am a DevOps, SecOps and NetO
 
 <p align="center"> 
   Visits<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/codekuu/count.svg" />
 </p>

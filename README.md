@@ -8,3 +8,8 @@ My name is Kevin and I live in Stockholm, Sweden! I am a DevOps, SecOps and NetO
 
 [![Codekuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=codekuu&count_private=true&show_icons=true&theme=dark&hide=prs)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codekuu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center"> 
+  Visits<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>

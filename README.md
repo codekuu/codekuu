@@ -10,6 +10,5 @@ My name is Kevin and I live in Stockholm, Sweden! I am a Dev, Sec and NetOps eng
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codekuu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> 
-  Visits<br>
   <img src="https://profile-counter.glitch.me/codekuu/count.svg" />
 </p>

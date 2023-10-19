@@ -6,8 +6,10 @@ class WhoAmI:
     location: str = "Stockholm, Sweden"
     description: str = "I am a Sec, Dev, NetOps Engineer"
     powers: List[str] = ["Python", "Typescript", "Vue3", "Nuxt"]
+    powers_otw: List[str] = ["Golang"]
     preferred_dbs: List[str] = ["Postgresql", "MongoDB"]
     preferred_cloud: List[str] = ["Cloudflare", "AWS"]
+    preffered_iStack: List[str] = ["Kubernetes", "Gitlab", "ArgoCD"]
 ```
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=codekuu&count_private=true&show_icons=true&theme=dark&hide=prs" />

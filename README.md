@@ -5,8 +5,7 @@ class WhoAmI:
     name: str = "Kevin"
     location: str = "Stockholm, Sweden"
     description: str = "I am a Sec, Dev, NetOps Engineer"
-    powers: List[str] = ["Python", "Typescript", "Vue3", "Nuxt"]
-    powers_otw: List[str] = ["Golang"]
+    powers: List[str] = ["Python", "Golang", "Typescript", "Vue3", "Nuxt"]
     preferred_dbs: List[str] = ["Postgresql", "MongoDB"]
     preferred_cloud: List[str] = ["Cloudflare", "AWS"]
     preffered_iStack: List[str] = ["Kubernetes", "Gitlab", "ArgoCD"]

@@ -12,6 +12,5 @@ class WhoAmI:
 ```
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=codekuu&count_private=true&show_icons=true&theme=dark&hide=prs" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codekuu&layout=compact&theme=dark" /><br/>
-  <img src="https://visitcount.itsvg.in/api?id=codekuu&label=Profile%20Views&color=12&icon=1&pretty=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codekuu&layout=compact&theme=dark" />
 </p>
